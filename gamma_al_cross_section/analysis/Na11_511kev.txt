@@ -1,0 +1,96 @@
+ 
+Thickness: 8.0mm
+Converged with chi-squared 395.50
+Number of degrees of freedom, dof = 115.00
+Reduced chi-squared 3.44
+ 
+Parameter # | Initial guess values:    | Best fit values:         | Uncertainties in the best fit values:
+0           | 5.000e+03                | 4.258e+03                | 1.587e+01               
+1           | 5.300e+02                | 5.331e+02                | 4.014e-02               
+2           | 1.000e+01                | 1.192e+01                | 3.622e-02               
+3           | -5.000e-01               | -2.587e+00               | 5.166e-02               
+4           | 5.000e-01                | 1.668e+03                | 2.930e+01               
+ 
+Thickness: 32mm
+Converged with chi-squared 620.68
+Number of degrees of freedom, dof = 115.00
+Reduced chi-squared 5.40
+ 
+Parameter # | Initial guess values:    | Best fit values:         | Uncertainties in the best fit values:
+0           | 5.000e+03                | 2.525e+03                | 1.293e+01               
+1           | 5.300e+02                | 5.323e+02                | 5.683e-02               
+2           | 1.000e+01                | 1.178e+01                | 5.394e-02               
+3           | -5.000e-01               | -4.004e+00               | 5.604e-02               
+4           | 5.000e-01                | 2.479e+03                | 3.204e+01               
+ 
+Thickness: 16mm
+Converged with chi-squared 530.08
+Number of degrees of freedom, dof = 115.00
+Reduced chi-squared 4.61
+ 
+Parameter # | Initial guess values:    | Best fit values:         | Uncertainties in the best fit values:
+0           | 5.000e+03                | 3.559e+03                | 1.481e+01               
+1           | 5.300e+02                | 5.326e+02                | 4.527e-02               
+2           | 1.000e+01                | 1.183e+01                | 4.165e-02               
+3           | -5.000e-01               | -3.290e+00               | 5.446e-02               
+4           | 5.000e-01                | 2.075e+03                | 3.101e+01               
+ 
+Thickness: 4.0mm
+Converged with chi-squared 280.06
+Number of degrees of freedom, dof = 115.00
+Reduced chi-squared 2.44
+ 
+Parameter # | Initial guess values:    | Best fit values:         | Uncertainties in the best fit values:
+0           | 5.000e+03                | 4.644e+03                | 1.644e+01               
+1           | 5.300e+02                | 5.336e+02                | 3.770e-02               
+2           | 1.000e+01                | 1.192e+01                | 3.359e-02               
+3           | -5.000e-01               | -2.006e+00               | 4.908e-02               
+4           | 5.000e-01                | 1.334e+03                | 2.771e+01               
+ 
+Thickness: 1.0mm
+Converged with chi-squared 239.23
+Number of degrees of freedom, dof = 115.00
+Reduced chi-squared 2.08
+ 
+Parameter # | Initial guess values:    | Best fit values:         | Uncertainties in the best fit values:
+0           | 5.000e+03                | 4.953e+03                | 1.686e+01               
+1           | 5.300e+02                | 5.325e+02                | 3.612e-02               
+2           | 1.000e+01                | 1.195e+01                | 3.205e-02               
+3           | -5.000e-01               | -1.645e+00               | 4.817e-02               
+4           | 5.000e-01                | 1.123e+03                | 2.717e+01               
+ 
+Thickness: 0.0mm
+Converged with chi-squared 263.23
+Number of degrees of freedom, dof = 115.00
+Reduced chi-squared 2.29
+ 
+Parameter # | Initial guess values:    | Best fit values:         | Uncertainties in the best fit values:
+0           | 5.000e+03                | 5.110e+03                | 1.706e+01               
+1           | 5.300e+02                | 5.330e+02                | 3.527e-02               
+2           | 1.000e+01                | 1.196e+01                | 3.102e-02               
+3           | -5.000e-01               | -1.339e+00               | 4.640e-02               
+4           | 5.000e-01                | 9.464e+02                | 2.608e+01               
+ 
+Thickness: 2.0mm
+Converged with chi-squared 300.02
+Number of degrees of freedom, dof = 115.00
+Reduced chi-squared 2.61
+ 
+Parameter # | Initial guess values:    | Best fit values:         | Uncertainties in the best fit values:
+0           | 5.000e+03                | 4.852e+03                | 1.668e+01               
+1           | 5.300e+02                | 5.332e+02                | 3.660e-02               
+2           | 1.000e+01                | 1.197e+01                | 3.245e-02               
+3           | -5.000e-01               | -1.701e+00               | 4.779e-02               
+4           | 5.000e-01                | 1.153e+03                | 2.695e+01               
+ 
+Thickness: 0.5mm
+Converged with chi-squared 242.12
+Number of degrees of freedom, dof = 115.00
+Reduced chi-squared 2.11
+ 
+Parameter # | Initial guess values:    | Best fit values:         | Uncertainties in the best fit values:
+0           | 5.000e+03                | 5.017e+03                | 1.694e+01               
+1           | 5.300e+02                | 5.328e+02                | 3.579e-02               
+2           | 1.000e+01                | 1.194e+01                | 3.165e-02               
+3           | -5.000e-01               | -1.558e+00               | 4.756e-02               
+4           | 5.000e-01                | 1.071e+03                | 2.681e+01               
